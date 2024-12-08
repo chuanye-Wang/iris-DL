@@ -28,5 +28,4 @@ ax.set_ylabel("sepal width(cm)")
 ax.set_zlabel("petal length(cm)")
 
 plt.legend()
-
 plt.show()
